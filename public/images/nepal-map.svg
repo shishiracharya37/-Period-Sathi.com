@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="370" viewBox="0 0 790 370" role="img" aria-label="Stylized Nepal province map">
+  <rect width="790" height="370" rx="28" fill="#FFF5F7"/>
+  <path d="M40 130 L118 92 L170 124 L146 188 L78 202 Z" fill="#DC143C" stroke="#fff" stroke-width="4"/>
+  <path d="M138 88 L250 54 L320 92 L288 165 L170 156 Z" fill="#F97316" stroke="#fff" stroke-width="4"/>
+  <path d="M158 170 L286 172 L330 228 L260 270 L142 238 Z" fill="#F59E0B" stroke="#fff" stroke-width="4"/>
+  <path d="M286 162 L390 132 L440 188 L390 252 L326 222 Z" fill="#84CC16" stroke="#fff" stroke-width="4"/>
+  <path d="M398 132 L512 110 L574 160 L528 236 L432 220 Z" fill="#10B981" stroke="#fff" stroke-width="4"/>
+  <path d="M326 230 L532 236 L586 286 L494 326 L276 278 Z" fill="#F59E0B" stroke="#fff" stroke-width="4"/>
+  <path d="M532 108 L672 92 L742 150 L708 250 L584 226 L574 160 Z" fill="#22C55E" stroke="#fff" stroke-width="4"/>
+  <text x="395" y="348" text-anchor="middle" fill="#6B7280" font-family="Arial, sans-serif" font-size="18">Nepal's 7 provinces • menstrual health access view</text>
+</svg>

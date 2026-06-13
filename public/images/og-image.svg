@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="PeriodSathi Nepal social preview">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#FFF5F7"/>
+      <stop offset="0.55" stop-color="#F8BBD9"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="30%" cy="25%" r="70%">
+      <stop stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <circle cx="980" cy="120" r="190" fill="#D63384" opacity="0.16"/>
+  <circle cx="1040" cy="480" r="260" fill="#1A1A2E" opacity="0.14"/>
+  <text x="90" y="170" font-family="Georgia, serif" font-size="92" font-weight="700" fill="#D63384">पिरियड साथी</text>
+  <text x="94" y="248" font-family="Arial, sans-serif" font-size="50" font-weight="700" fill="#1A1A2E">PeriodSathi Nepal</text>
+  <text x="96" y="326" font-family="Arial, sans-serif" font-size="34" fill="#1A1A2E">तपाईंको स्वास्थ्य, तपाईंको शक्ति</text>
+  <text x="96" y="386" font-family="Arial, sans-serif" font-size="30" fill="#4B5563">Breaking the silence on menstrual health in Nepal</text>
+  <rect x="96" y="448" width="360" height="74" rx="37" fill="#D63384"/>
+  <text x="132" y="496" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">Made for Nepal 🇳🇵</text>
+</svg>

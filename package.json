@@ -1,0 +1,19 @@
+{
+  "name": "period-sathi-nepal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline frontend-only menstrual health platform for Nepali women.",
+  "scripts": {
+    "dev": "node -e \"console.log('Open index.html directly in your browser. No dev server is required.')\"",
+    "build": "node --check src/data.js && node --check src/app.js",
+    "lint": "node --check src/data.js && node --check src/app.js"
+  },
+  "keywords": [
+    "menstrual-health",
+    "nepal",
+    "offline",
+    "hackathon",
+    "frontend"
+  ],
+  "license": "MIT"
+}
